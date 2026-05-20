@@ -72,3 +72,60 @@ pm.expect(jsonData.name).to.equal("John");
 ## 💡 Examples
 
 ### Example 1: GET User
+### Example 2: POST Create User
+### Example 3: Error Handling
+## 🧪 Test Types
+
+### Positive Testing
+- Valid requests return correct data
+- Status codes correct
+
+### Negative Testing
+- Invalid requests return errors
+- Error messages helpful
+
+### Performance Testing
+- Response times acceptable
+- Handle concurrent requests
+
+### Security Testing
+- Authentication required
+- Authorization checked
+
+## 📊 Metrics
+
+Track:
+- Total tests: 50
+- Passed: 48 (96%)
+- Failed: 2 (4%)
+- Average response time: 150ms
+
+## 🛠️ Tools
+
+- **Postman** - Collections and testing
+- **Insomnia** - REST client
+- **Thunder Client** - VS Code extension
+
+## ✅ Checklist
+
+- [ ] All endpoints covered
+- [ ] Positive and negative tests
+- [ ] Error codes tested
+- [ ] Response time validated
+- [ ] Authentication tested
+- [ ] Status codes verified
+- [ ] Data validation checked
+
+## 🚀 Next Steps
+
+1. Create 20+ API tests
+2. Document with assertions
+3. Create Postman collection
+4. Run against staging
+5. Learn Test Automation
+
+---
+
+**Last Updated:** Mayo 2026
+**Difficulty:** Intermediate
+**Time to Master:** 1-2 weeks
