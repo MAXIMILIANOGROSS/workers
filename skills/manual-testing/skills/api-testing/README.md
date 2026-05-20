@@ -129,3 +129,4 @@ Track:
 **Last Updated:** Mayo 2026
 **Difficulty:** Intermediate
 **Time to Master:** 1-2 weeks
+Add API testing skill
